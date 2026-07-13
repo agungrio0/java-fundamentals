@@ -2,7 +2,7 @@ package topic03_arrays;
 
 import java.util.Scanner;
 
-public class array2 {
+public class StoreCheckoutSystem {
     public static void main(String[] args) {
         Scanner agung = new Scanner(System.in);
 
