@@ -47,9 +47,9 @@ A collection of my Java learning projects, documenting my journey from basic pro
 
 This repository serves as a personal learning portfolio to practice Java programming fundamentals and track my progress over time.
 
-# Featured Programs
+## Featured Programs
 
-## Pattern Printing Exercises
+### Pattern Printing Exercises
 
 A set of Java looping exercises focused on building different patterns using iterative logic.
 
@@ -69,7 +69,7 @@ Through this project, I practiced:
 <img width="103" height="152" alt="Screenshot 2026-07-13 at 18 34 22" src="https://github.com/user-attachments/assets/ef6e040f-f5e6-484f-b680-b0db6de91169" />
 <img width="323" height="109" alt="Screenshot 2026-07-13 at 18 33 51" src="https://github.com/user-attachments/assets/90fead7c-edab-451c-a9dd-24b407eee056" />
 
-## Academic Grade Management System
+### Academic Grade Management System
 
 A Java-based academic grade management program that processes student scores and generates semester statistics.
 
