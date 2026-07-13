@@ -1,8 +1,5 @@
-# Java Learning Journey
-
-![Java](https://img.shields.io/badge/Language-Java-orange)
-
 # Java Fundamentals
+![Java](https://img.shields.io/badge/Language-Java-orange)
 
 A collection of my Java learning projects, documenting my journey from basic programming concepts to more advanced topics.
 
@@ -65,7 +62,6 @@ Through this project, I practiced:
 
 **Example Output:**
 
-<img width="147" height="101" alt="Screenshot 2026-07-13 at 18 34 11" src="https://github.com/user-attachments/assets/6726b58e-4931-4f74-9687-c46ca29e277c" />
 <img width="103" height="152" alt="Screenshot 2026-07-13 at 18 34 22" src="https://github.com/user-attachments/assets/ef6e040f-f5e6-484f-b680-b0db6de91169" />
 <img width="323" height="109" alt="Screenshot 2026-07-13 at 18 33 51" src="https://github.com/user-attachments/assets/90fead7c-edab-451c-a9dd-24b407eee056" />
 
