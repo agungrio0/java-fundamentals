@@ -1,6 +1,6 @@
 package topic02_loops;
 
-public class PerulanganPola {
+public class PatternPrintingExercises {
     public static void main(String[] args) {
         // Soal 1 
         System.out.println("Soal 1");
