@@ -1,6 +1,6 @@
 package topic03_arrays;
 
-public class array3 {
+public class StudentGradeStatistics {
     public static void main(String[] args) {
         
         String[] nama = {
