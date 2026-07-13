@@ -2,7 +2,7 @@ package topic01_ifelse;
 
 import java.util.Scanner;
 
-public class pemilihan2 {
+public class EmployeeSalaryCalculator {
     public static void main(String[] args) {
         Scanner agung = new Scanner(System.in);
 
