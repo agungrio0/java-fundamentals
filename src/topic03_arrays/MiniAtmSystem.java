@@ -2,7 +2,7 @@ package topic03_arrays;
 
 import java.util.Scanner;
 
-public class array4 {
+public class MiniAtmSystem {
     public static void main(String[] args) {
         Scanner agung = new Scanner(System.in);
 
