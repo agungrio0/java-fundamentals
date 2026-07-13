@@ -1,18 +1,44 @@
-## Getting Started
+# ☕ Java Fundamentals
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A collection of my Java learning projects, documenting my journey from basic programming concepts to more advanced topics.
 
-## Folder Structure
+## 📚 Learning Topics
 
-The workspace contains two folders by default, where:
+### 01. If Else
+- StudentGradeCalculator
+- EmployeeSalaryCalculator
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 02. Loops
+- NumberPatternGenerator
+- LoopLogicExercises
+- PatternPrintingExercises
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### 03. Arrays
+- SemesterGpaCalculator
+- StoreCheckoutSystem
+- StudentGradeStatistics
+- MiniAtmSystem
+- AcademicGradeManagementSystem
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠 Technologies
+- Java
+- Visual Studio Code
+- Git
+- GitHub
 
-## Dependency Management
+## 🚀 Learning Roadmap
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ If Else
+- ✅ Loops
+- ✅ Arrays
+- ⏳ Methods
+- ⏳ Object-Oriented Programming (OOP)
+- ⏳ Collections
+- ⏳ Exception Handling
+- ⏳ File Handling
+
+## 📌 Purpose
+
+This repository serves as a personal learning portfolio to practice Java programming fundamentals and track my progress over time.
