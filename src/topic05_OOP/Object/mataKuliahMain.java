@@ -1,4 +1,4 @@
-package topic05_OOP.Latihan;
+package topic05_OOP.Object;
 
 public class mataKuliahMain {
     public static void main(String[] args) {
