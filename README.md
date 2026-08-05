@@ -1,14 +1,19 @@
 # Java Fundamentals
+
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-A collection of Java projects documenting my learning journey from fundamental programming concepts to modular programming using methods.
+A collection of Java projects documenting my journey through Java Fundamentals, featuring progressively challenging console applications built using core programming concepts and modular design.
 
 ## Repository Status
 
 ✅ **Completed**
 
-This repository documents my complete Java Fundamentals learning journey, covering topics from variables and control flow to arrays and modular programming with methods. It marks the completion of my Java Fundamentals learning before continuing to Object-Oriented Programming (OOP).
+This repository documents my Java Fundamentals learning journey, covering core programming concepts from variables and control flow to arrays, methods, and modular programming.
+
+Throughout this repository, I completed a series of progressively challenging projects, culminating in a comprehensive console-based Store Management System that brings together all the Java Fundamentals concepts covered throughout the learning journey.
+
+The next stage of my learning journey continues in a dedicated repository focused on Object-Oriented Programming (OOP).
 
 ---
 
@@ -38,6 +43,14 @@ This repository documents my complete Java Fundamentals learning journey, coveri
 - BranchSalesAnalytics
 - CinemaManagementSystem
 - StoreManagementSystem (Final Boss)
+
+### 05. Object
+- MataKuliah
+- MataKuliahMain
+- Dosen
+- DosenMain
+- Kendaraan (Mini Project)
+- KendaraanMain (Mini Project)
 
 ## Technologies
 - Java
